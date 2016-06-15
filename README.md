@@ -1,7 +1,7 @@
 Russ Vetsper
-Portfolio webpage 
+Portfolio webpage
 I used git , html,css and bootstrap
-https://github.com/russvetsper/car-show
+https://russvetsper.github.io/russ_page
 
 wrong name "car-show"
 should have been russ's page
