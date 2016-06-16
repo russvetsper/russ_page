@@ -1,11 +1,16 @@
 h2.header2 {
-  color: red;
+ color: red;
 }
 
 strong{
-  font-size:50px;
+ font-size:50px;
 }
-h3{
-      font-size: 30px;
 
+h3{
+ font-size: 30px;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
 }
