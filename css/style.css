@@ -16,5 +16,5 @@ h3{
 }
 
 .pull-right {
-  float: right;
+  float: right !important;
 }
